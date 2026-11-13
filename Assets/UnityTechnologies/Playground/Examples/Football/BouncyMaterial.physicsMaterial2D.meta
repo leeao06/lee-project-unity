@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40a7146b1a2ec49779a9976ba61b8bf0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Learn Playground | Beginner Project
+  packageVersion: 1.8.1
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Football/BouncyMaterial.physicsMaterial2D
+  uploadId: 1039700

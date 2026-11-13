@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: da04f9380443b4d99beb5645ff34f19e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Learn Playground | Beginner Project
+  packageVersion: 1.8.1
+  assetPath: Assets/UnityTechnologies/Playground/_Internal/Scripts/Editor/DefaultComponents/TilemapCollider2DInspector.cs
+  uploadId: 1039700

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3bcc33a8e4d9445f6a98c75b35fca271
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Learn Playground | Beginner Project
+  packageVersion: 1.8.1
+  assetPath: Assets/UnityTechnologies/Playground/_Internal/Scripts/Editor/DefaultComponents/CapsuleCollider2DInspector.cs
+  uploadId: 1039700

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: db8fad5302abe4101a7d6ca99a4e7b95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Learn Playground | Beginner Project
+  packageVersion: 1.8.1
+  assetPath: Assets/UnityTechnologies/Playground/_Internal/Scripts/Editor/Gameplay/ObjectCreatorAreaInspector.cs
+  uploadId: 1039700

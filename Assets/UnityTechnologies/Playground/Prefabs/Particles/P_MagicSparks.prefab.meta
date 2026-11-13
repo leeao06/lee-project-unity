@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e6d7ae9fc99f42b2aad7e0ba5a4406f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Learn Playground | Beginner Project
+  packageVersion: 1.8.1
+  assetPath: Assets/UnityTechnologies/Playground/Prefabs/Particles/P_MagicSparks.prefab
+  uploadId: 1039700

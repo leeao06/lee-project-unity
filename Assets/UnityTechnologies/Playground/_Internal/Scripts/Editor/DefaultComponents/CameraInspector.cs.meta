@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ac436673bfeb14f77885448126f4c28a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Learn Playground | Beginner Project
+  packageVersion: 1.8.1
+  assetPath: Assets/UnityTechnologies/Playground/_Internal/Scripts/Editor/DefaultComponents/CameraInspector.cs
+  uploadId: 1039700

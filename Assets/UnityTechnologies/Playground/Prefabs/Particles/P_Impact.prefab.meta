@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61bb6781d7b9444e89d1fd6eef729832
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Learn Playground | Beginner Project
+  packageVersion: 1.8.1
+  assetPath: Assets/UnityTechnologies/Playground/Prefabs/Particles/P_Impact.prefab
+  uploadId: 1039700
